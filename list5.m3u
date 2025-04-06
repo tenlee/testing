@@ -1410,7 +1410,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" c"MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png" tvg-id="xxx",TRAVEL & TASTE
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png" tvg-id="xxx",TRAVEL & TASTE
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1422,6 +1422,409 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 #EXTINF:-1 group-title="MALAYSIA" ch-number="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sooka_Oh_My_Ceria.png",Oh My Ceria!
 https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
+
+================================================================
+
+#EXTINF:-1 group-title="CHINA",CCTV1
+http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV1
+https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV1
+http://42.48.105.224:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV1
+http://112.99.193.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="CHINA",CCTV1
+http://113.15.109.216:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV1
+http://182.91.124.224:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV1
+http://111.9.163.109:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV1
+http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV1
+http://101.65.34.130:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV1
+http://cntv.dfkj.live/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV2
+http://202.168.187.208:9089/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV2
+http://42.48.105.224:9002/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV2
+http://182.91.124.224:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV2
+http://111.9.163.109:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV2
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV2
+http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV2
+http://1.180.2.93:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV2
+http://101.65.34.130:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV2
+http://cntv.dfkj.live/bestv.php?id=cctv2hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV2
+http://112.123.206.32:808/hls/2/index.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV3
+http://202.168.187.208:9089/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV3
+http://42.48.105.224:9002/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV3
+http://182.91.124.224:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV3
+http://111.9.163.109:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV3
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
+#EXTINF:-1 group-title="CHINA",CCTV3
+http://1.180.2.93:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV3
+https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
+#EXTINF:-1 group-title="CHINA",CCTV3
+http://cntv.dfkj.live/bestv.php?id=cctv38m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV3
+http://218.29.168.146:352/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV3
+http://14.212.185.146:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV4
+http://202.168.187.208:9089/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV4
+http://42.48.105.224:9002/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV4
+http://112.99.193.34:9901/tsfile/live/1036_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="CHINA",CCTV4
+http://182.91.124.224:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV4
+http://111.9.163.109:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV4
+http://1.180.2.93:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV4
+http://cssbyd.imwork.net:8082/hls/4/index.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV4
+https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
+#EXTINF:-1 group-title="CHINA",CCTV4
+http://cntv.dfkj.live/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV4
+http://218.29.168.146:352/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5
+http://202.168.187.208:9089/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5
+http://42.48.105.224:9002/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5
+http://112.99.193.34:9901/tsfile/live/1022_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5
+http://182.91.124.224:9901/tsfile/live/faacts/0005_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5
+http://111.9.163.109:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5
+http://1.180.2.93:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV5
+http://101.65.34.130:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5
+http://cntv.dfkj.live/bestv.php?id=cctv58m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV5
+http://218.29.168.146:352/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5
+http://183.223.157.33:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5+
+http://1.180.2.93:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV5+
+http://cssbyd.imwork.net:8082/hls/6/index.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV5+
+http://cntv.dfkj.live/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV5+
+http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5+
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=bf4807&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CCTV5+
+http://110.81.206.138:49231/tsfile/live/23018_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="CHINA",CCTV5+
+http://222.134.245.16:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5+
+http://101.74.28.74:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV5+
+http://ku9.3n.cc/smt.php?id=cctv5plus
+#EXTINF:-1 group-title="CHINA",CCTV5+
+http://42.231.44.43:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV6
+http://42.48.105.224:9002/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV6
+http://182.91.124.224:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV6
+http://111.9.163.109:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV6
+http://1.180.2.93:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV6
+http://101.65.34.130:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV6
+http://cntv.dfkj.live/bestv.php?id=cctv6hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV6
+http://zzssw01.55555.io:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV6
+http://218.29.168.146:352/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV6
+http://14.212.185.146:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV6
+http://183.223.157.33:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV7
+http://42.48.105.224:9002/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV7
+http://182.91.124.224:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV7
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV7
+http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+#EXTINF:-1 group-title="CHINA",CCTV7
+http://1.180.2.93:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV7
+http://cntv.dfkj.live/bestv.php?id=cctv7hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV7
+http://14.212.185.146:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV7
+http://183.223.157.33:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV7
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=69ac17&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CCTV7
+http://110.81.206.138:49231/tsfile/live/23007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="CHINA",CCTV8
+http://182.91.124.224:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV8
+http://111.9.163.109:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV8
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV8
+http://1.180.2.93:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV8
+https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
+#EXTINF:-1 group-title="CHINA",CCTV8
+http://cntv.dfkj.live/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV8
+http://zzssw01.55555.io:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV8
+http://218.29.168.146:352/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV8
+http://14.212.185.146:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV8
+http://183.223.157.33:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV9
+http://182.91.124.224:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV9
+http://1.180.2.93:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV9
+http://cntv.dfkj.live/bestv.php?id=cctv9hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV9
+http://zzssw01.55555.io:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV9
+http://218.29.168.146:352/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV9
+http://14.212.185.146:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV9
+http://183.223.157.33:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV9
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=bdfff3&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CCTV9
+http://t.live.cntv.cn/m3u8/cctv400.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV9
+http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctvjilu&ChannelID=cctvjilu&videoTVChannel=cctvjilu&P2PChannelID=pd://cctv_p2p_cctvjilu
+#EXTINF:-1 group-title="CHINA",CCTV10
+http://42.48.105.224:9002/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV10
+http://182.91.124.224:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV10
+http://1.180.2.93:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV10
+http://cntv.dfkj.live/bestv.php?id=cctv10hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV10
+http://218.29.168.146:352/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV10
+http://14.212.185.146:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV10
+http://183.223.157.33:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV10
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b9e1e2&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CCTV10
+http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv10&videoTVChannel=cctv10&P2PChannelID=pd://cctv_p2p_cctv10&tai=cctv10&VideoName=cctv10&channelID=cctv10
+#EXTINF:-1 group-title="CHINA",CCTV10
+http://110.81.206.138:49231/tsfile/live/23010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="CHINA",CCTV11
+http://42.48.105.224:9002/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV11
+http://182.91.124.224:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV11
+http://1.180.2.93:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV11
+https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv11&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11
+#EXTINF:-1 group-title="CHINA",CCTV11
+http://cntv.dfkj.live/bestv.php?id=cctv11hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV11
+http://218.29.168.146:352/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV11
+http://14.212.185.146:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV11
+http://58.17.116.69:9903/tsfile/live/0011_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV11
+http://183.223.157.33:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV11
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0d94ba&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CCTV12
+http://42.48.105.224:9002/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV12
+http://182.91.124.224:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV12
+http://1.180.2.93:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV12
+https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
+#EXTINF:-1 group-title="CHINA",CCTV12
+http://cntv.dfkj.live/bestv.php?id=cctv12hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV12
+http://219.145.59.166:8888/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV12
+http://218.29.168.146:352/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV12
+http://14.212.185.146:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV12
+http://183.223.157.33:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV12
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=362ee2&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CCTV13
+http://42.48.105.224:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV13
+http://113.15.109.216:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV13
+http://182.91.124.224:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV13
+http://116.128.243.121:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV13
+http://1.180.2.93:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV13
+http://cntv.dfkj.live/bestv.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV13
+http://218.29.168.146:352/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV13
+http://58.17.116.69:9903/tsfile/live/0013_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV13
+http://183.223.157.33:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV13
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=15b3ac&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CCTV14
+http://42.48.105.224:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV14
+http://113.15.109.216:59901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV14
+http://182.91.124.224:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV14
+http://1.180.2.93:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV14
+http://cntv.dfkj.live/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV14
+http://219.140.51.54:808/hls/14/index.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV14
+http://218.29.168.146:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV14
+http://14.212.185.146:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV14
+http://222.173.108.238:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV14
+http://58.17.116.69:9903/tsfile/live/0014_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV15
+http://42.48.105.224:9002/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV15
+http://112.99.193.34:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV15
+http://182.91.124.224:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV15
+http://1.180.2.93:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV15
+http://cntv.dfkj.live/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV15
+http://219.140.51.54:808/hls/15/index.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV15
+http://218.29.168.146:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV15
+http://14.212.185.146:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV15
+http://58.17.116.69:9903/tsfile/live/0015_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV15
+http://183.223.157.33:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV16
+http://cntv.dfkj.live/bestv.php?id=cctv16hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV16
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4d7bfb&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CCTV16
+https://yunmei.tv/main/cctv-16.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV16
+http://42.225.117.174:11199/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV16
+http://219.135.180.210:18888/hls/31/index.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV16
+http://121.11.160.7:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV16
+http://58.221.214.82:9901/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV16
+http://220.164.192.48:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV16
+http://1b6467f415.iok.la:9931/tsfile/live/1094_1.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV16
+http://39.170.52.236:808/hls/16/index.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV17
+http://cntv.dfkj.live/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1 group-title="CHINA",CCTV17
+http://218.29.168.146:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV17
+http://14.212.185.146:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV17
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1ff000&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CCTV17
+http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv17&videoTVChannel=cctv17&P2PChannelID=pd://cctv_p2p_cctv17&tai=cctv1&VideoName=cctv1&channelID=cctv17
+#EXTINF:-1 group-title="CHINA",CCTV17
+http://110.81.206.138:49231/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0#rtsp://115.153.245.70/PLTV/88888888/224/3221226846/61397282.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221226846/61397282.smil
+#EXTINF:-1 group-title="CHINA",CCTV17
+http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV17
+http://180.213.174.225:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV17
+http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CHINA",CCTV17
+http://123.132.233.194:352/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CHINA",CETV1
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=bd2de8&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CETV1
+http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+#EXTINF:-1 group-title="CHINA",CETV1
+http://101.18.30.19:808/tsfile/live/1034_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="CHINA",CETV1
+http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="CHINA",CETV1
+http://183.11.239.36:808/hls/122/index.m3u8
+#EXTINF:-1 group-title="CHINA",CETV1
+http://0c13e1c9e82e5635-web.nnl5-link.sczhgx.com:8999/hls/48/index.m3u8
+#EXTINF:-1 group-title="CHINA",CETV1
+http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="CHINA",CETV1
+https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
+#EXTINF:-1 group-title="CHINA",CETV2
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e9e9b0&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CETV2
+http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+#EXTINF:-1 group-title="CHINA",CETV2
+http://101.18.30.19:808/tsfile/live/1037_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="CHINA",CETV2
+http://183.11.239.36:808/hls/78/index.m3u8
+#EXTINF:-1 group-title="CHINA",CETV2
+https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
+#EXTINF:-1 group-title="CHINA",CETV4
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="CHINA",CETV4
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5f1104&tk=822270345d4c
+#EXTINF:-1 group-title="CHINA",CETV4
+http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+#EXTINF:-1 group-title="CHINA",CETV4
+http://101.18.30.19:808/tsfile/live/1038_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="CHINA",CETV4
+http://218.89.240.144:59901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="CHINA",CETV4
+http://183.11.239.36:808/hls/79/index.m3u8
+#EXTINF:-1 group-title="CHINA",CETV4
+https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 
 ================================================================
 
