@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
 
-####################################################
+#################################################### 
 
 #EXTINF:-1 tvg-name="" tvg-id="Asian Food Network" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png" group-title="Indihome",ASIA FOOD NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
